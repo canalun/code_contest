@@ -7,6 +7,7 @@ mkdir $2 && cd $2
 
 for i in {a..f}; do
   touch $i.js
+  cat ../temp.js > $i.js
 done
 
 touch input.txt
