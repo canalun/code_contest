@@ -1,0 +1,9 @@
+# How to use
+```sh
+$ ./initialize.sh atcoder abcXXX
+$ cd ./atcoder/abcXXX
+
+# then, solve a problem...
+# then, copy input and output to files...
+$ ./check.sh a/b/c...
+```
