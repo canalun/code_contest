@@ -1,4 +1,5 @@
 **/input.txt
 **/output.txt
-**/check.sh
-!/check.sh
+**/check**.sh
+!/check**.sh
+**/a.out
